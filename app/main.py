@@ -1,3 +1,4 @@
+import utils.transport
 from app.utils import session
 from fastapi import FastAPI, HTTPException, status
 
